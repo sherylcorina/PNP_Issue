@@ -12,4 +12,4 @@
  device bjt PNP nwell,nsc/a,nsd pdiff,pdc/a pwell,space/w,psc/a,psd 
 ```
 
-However, this line seems to cause unwanted BJTs to appear in places where they are not their, even when only a partial requirement is met for the BJT.
+However, this line seems to cause unwanted BJTs to appear in places where they are not there, even when only a partial requirement is met for the BJT.
