@@ -1,9 +1,9 @@
-## Uwanted Parasitic BJTs
+### Uwanted Parasitic BJTs
 
 
 
- Modifications were made to the **SCN6M_SUBM.10.tech** File.
- Modified Technology File:  **SCN6M_SUBM_modified.10.tech**
+ - Modifications were made to the **SCN6M_SUBM.10.tech** File.
+ - Modified Technology File:  **SCN6M_SUBM_modified.10.tech**
  
  Note: 
  **To ensure that the Vertical Parasitic PNP BJT was recognized and extracted correctly, the line below was added to the Technology File.**
